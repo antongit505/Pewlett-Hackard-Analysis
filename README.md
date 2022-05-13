@@ -41,7 +41,7 @@ We'll be working with CSV files exploring their data with SQL and generating a l
 
 ### * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-A total of 72,458 roles will need to be filled in the upcoming years, the 70% belongs to Seniors Engineers and Staff positions. Because of the amount of these roles, the HR department should give priority to filling these positions.<br/>
+A total of 72,458 roles will need to be filled in the upcoming years, the 70% belongs to Seniors Engineers and Staff positions. Because of the amount of these roles, the HR department should give priority to fill these positions.<br/>
 The rest of positions like Engineer, Staff, Technique Leader, Assitant Engineer and Manager are important to fill, but they won't be as urgent as Senior Engineers and Senior Staff.<br/>
 To have a better understanding of the HR department capacity to look for candidates, we can perform a query to retrieve all the current HR employees and see what measures could be taken to succeed in the task.
 
