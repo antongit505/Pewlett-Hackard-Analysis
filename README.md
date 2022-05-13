@@ -15,9 +15,9 @@ We'll be working with CSV files exploring their data with SQL and generating a l
 
 * The first task was to filter all the company employee's data to only retrieve those who were born between 1952 and 1955 and store them in a table named __retirement_titles__. These employees are elegibles for retirement.
 
-    ![](resources/retirement_titles_code.png)
+    ![](resources/retirement_title_code.png)
 
-    ![](resources/retirement_titles_table.png)
+    ![](resources/retirement_title_table.png)
 
 * Then, from the information obtained above we have current and old employees, therefore we have filter only the current employees and store them in a table named __unique_titles__.
 
@@ -39,7 +39,7 @@ We'll be working with CSV files exploring their data with SQL and generating a l
 
 ## Summary
 
-* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+### * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 A total of 72,458 roles will need to be filled in the upcoming years, the 70% belongs to Seniors Engineers and Staff positions. Because of the amount of these roles, the HR department should give priority to filling these positions.<br/>
 The rest of positions like Engineer, Staff, Technique Leader, Assitant Engineer and Manager are important to fill, but they won't be as urgent as Senior Engineers and Senior Staff.<br/>
@@ -49,10 +49,10 @@ To have a better understanding of the HR department capacity to look for candida
 
 ![](resources/count_hr.png)
 
-We could see that there're 1,953 HR employees.<br/>
+- We could see that there're 1,953 HR employees.<br/>
 A recommendation could be to divide the HR department in teams to look for candidates and the size of these teams will depend on the quantity of positions to fill. The department will have to set up goals regarding time and quantity of candidates to hire in order to succeed in the task.
 
-* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+### * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 To have more insight about this, we could make another query to know the amount of employees and their respective rolls who're elegible for mentorship. We'll store this information in a tabe named __mentorship_per_title_table__.
 
